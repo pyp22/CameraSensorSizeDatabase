@@ -68,8 +68,14 @@ AgfaPhoto;AgfaPhoto sensor 505-D;5.75
 AgfaPhoto;AgfaPhoto sensor 505-X;5.75
 AgfaPhoto;AgfaPhoto sensor 530s;5.75
 AgfaPhoto;AgfaPhoto sensor 830s;5.75
-ASUS;Z00AD;3.8
-ASUS;Z002;3.8
+Apple;iPhone 4;4.54
+Apple;iPhone 4S;4.54
+Apple;iPhone 5;4.54
+Apple;iPhone 5S;4.89
+Apple;iPhone 6;4.89
+Apple;iPhone 6 Plus;4.89
+Apple;iPhone 6S;4.89
+Apple;iPhone 6S Plus;4.89
 BenQ;BenQ AC100;6.16
 BenQ;BenQ AE100;6.16
 BenQ;BenQ C1420;6.08
@@ -241,7 +247,7 @@ Canon;Canon EOS D30;22.7
 Canon;Canon EOS D60;22.7
 Canon;Canon EOS M;22.3
 Canon;Canon EOS Rebel SL1 / 100D;22.3
-Canon;Canon EOS Rebel T2i / 550D;22.3
+Canon;Canon EOS Rebel T2i / Kiss X4 / 550D;22.3
 Canon;Canon EOS Rebel T1i / 500D;22.3
 Canon;Canon EOS Rebel T3 / 1100D;22.2
 Canon;Canon EOS Rebel T3i / 600D;22.3
@@ -691,6 +697,7 @@ Contax;Contax N Digital;36
 Contax;Contax SL300R T;5.33
 Contax;Contax TVS Digital;7.11
 Contax;Contax U4R;5.33
+DJI;FC300S;6.16
 Epson;Epson L-500V;5.75
 Epson;Epson PhotoPC 3000 Zoom;7.11
 Epson;Epson PhotoPC 3100 Zoom;7.11
@@ -1625,6 +1632,7 @@ Minox;Minox DD200;6.4
 Minox;Minox DM 1;6.4
 Minox;Minox Mobi DV;6.4
 Minox;Minox Rolleiflex MiniDigi;6.4
+Motorola;MotoE2(4G-LTE);2.8
 Nikon;Nikon 1 AW1;13.2
 Nikon;Nikon 1 J1;13.2
 Nikon;Nikon 1 J2;13.2
